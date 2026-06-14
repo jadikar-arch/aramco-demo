@@ -32,6 +32,7 @@ from open_webui.internal.config import (
 
 # ── Persistent configuration layer ──────────────────────────────────────────
 from open_webui.internal.config import (  # noqa: F401
+    AppConfig,
     ConfigTable as Config,
 )
 from open_webui.internal.config import (
